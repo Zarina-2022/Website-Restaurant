@@ -2,7 +2,7 @@
 
 <h3> It is a restaurant website template built with HTML, CSS and JAVA SCRIPT. It is fully responsive.</h3>
 
-<h2> <u>Built With: </u></h2>
+<h2> <u>Also used the following resources: </u></h2>
 
 <a> https://fontawesome.com/</a>
 
@@ -13,4 +13,5 @@
 ![](screen.gif)
 
 <h3> How to download? </h3>
+
 ![](download.gif)
