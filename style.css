@@ -196,7 +196,7 @@ a{
   background: url(images/Home.jpeg) no-repeat;
   background-size: cover;
   background-position: center; /* bg-size:cover ve bg-position:center mutlaka ikiside yazilmali duzgun goruntu icin */
-  margin-top: -14.5rem;
+  margin-top: 10.6rem;
   display: flex;
   align-items: center;
 }
