@@ -10,7 +10,7 @@
 
 <h3> Screen gif: </h3>
 
-![](screen.gif)
+![](WR screen.gif)
 
 <h3> How to download? </h3>
 
